@@ -6,7 +6,7 @@
 
 1. 👉 <b><a target = "_blank" href = "https://mobinhimu.github.io/guess-my-number/">Guess My Number</a></b> <br/>
 
-1. Project Number One 👉 <b><a target = "_blank" href = "#">Name Of The Project</a></b>
+1. 👉 <b><a target = "_blank" href = "https://mobinhimu.github.io/ludu-game/">Ludu Game</a></b>
 
 1. Project Number One 👉 <b><a target = "_blank" href = "#">Name Of The Project</a></b>
 
