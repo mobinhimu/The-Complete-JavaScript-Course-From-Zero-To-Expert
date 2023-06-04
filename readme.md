@@ -26,7 +26,7 @@
 
  </ul>
 
-(For the time being there is no project. project will be added soon !)
+1.  👉 <b><a target = "_blank" href = "https://forkify-mobin.netlify.app/">FORKIFY 💖</a></b> <br/>
 
 <p>If You Want To Contact With Me  👇</p>
 
